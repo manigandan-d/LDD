@@ -1,0 +1,7 @@
+custom drivers - our drivers 
+downloads - third party software like rootfs, toolchain
+patches - 
+source - linux source, u-boot source 
+
+All kernel header files -> LINUX_SRC/include/linux
+
